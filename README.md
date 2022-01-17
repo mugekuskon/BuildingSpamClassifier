@@ -1,6 +1,3 @@
-# BuildingSpamClassifier
-Naïve Bayes implementation in order to classify spam emails.
-
 
 
 # Building a Spam Classifier with Naïve Bayes
